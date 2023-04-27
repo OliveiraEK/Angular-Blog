@@ -1,0 +1,13 @@
+.container__menu-bar {
+  margin-top: 15px;
+}
+
+.container__menu-bar nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.container__menu-bar nav ul li {
+  margin-right: 1rem;
+}
