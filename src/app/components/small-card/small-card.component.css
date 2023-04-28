@@ -2,7 +2,6 @@
   width: 700px;
   font-size: .9rem;
   margin-bottom: 15px;
-
 }
 
 .container__small-card-content {
@@ -11,7 +10,8 @@
 }
 
 .small-card__photo img{
-  width: 200px;
+  width: 3rem;
+  height: 8rem;
   min-width: 200px;
   margin-right: 20px;
 }
@@ -20,6 +20,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: .8rem;
+}
+
+.small-card__title h1 a:hover{
+  color: #ADD8E6;
 }
 
 .container__small-card__separator {

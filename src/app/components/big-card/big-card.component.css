@@ -15,11 +15,16 @@
 }
 
 .big-card__tittle h1{
-  font-size: 20px;
+  font-size: 1.2rem;
   margin-top: 10px;
+}
+
+.big-card__tittle h1:hover {
+  color: #ADD8E6;
 }
 
 .big-card__description p{
   color: grey;
   margin-top: 10px;
 }
+
